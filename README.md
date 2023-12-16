@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/justinjpatterson/" target="_blank" rel="noopener noreferrer">
-    <img height="38" src="icons8-linked-in-69.png">
+    <img height="38" src="icons8-linked-in-96.png">
   </a>&nbsp;&nbsp;
 </p>
 
