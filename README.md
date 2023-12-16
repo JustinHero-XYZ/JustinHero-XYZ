@@ -7,6 +7,6 @@
 </p>
 
 
-<a href="https://skyline.github.com/JustinHero-XYZ/2022" title="My 2023 
-Github Skyline"><img src="Skyline.png" alt="2023 GitHub Skyline"
+<a href="https://skyline.github.com/JustinHero-XYZ/2023" title="My 2023 
+Github Skyline"><img src="skyline.png" alt="2023 GitHub Skyline"
 width="100%" /></a>
